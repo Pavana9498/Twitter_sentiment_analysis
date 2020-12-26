@@ -1,4 +1,4 @@
-To perform sentiment analysis over a corpus of tweets during the U.S. 2012 Re-Election about the candidates Barack Obama and Mitt Romney. The sentiment analysis had several tasks and stages in itself.
+Performed sentiment analysis over a corpus of tweets during the U.S. 2012 Re-Election about the candidates Barack Obama and Mitt Romney. The sentiment analysis had several tasks and stages in itself.
 How to run the code: python3 test_model.py
 
 Tasks:
